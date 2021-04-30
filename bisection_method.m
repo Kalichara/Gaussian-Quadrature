@@ -3,7 +3,7 @@
 
 clear;clc;
 syms f(x)
-f(x)    =  exp(-x)-x;  % function
+f(x)    =  exp(-x)-x;  % function, we can use other function also
 a       =  0;          % first point a
 b       =  1;          % second point b and 
 r       =  (a+b)/2;    % mid point of interval (a,b)
